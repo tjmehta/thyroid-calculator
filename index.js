@@ -147,6 +147,8 @@ rows
       invalid = true
     }
 
+    if (invalid) return
+
     /**
      * calculate output values
      */
