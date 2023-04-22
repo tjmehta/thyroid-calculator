@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-xlsx": "^0.15.0",
+    "node-xlsx": "^0.15.1",
     "prettier": "^2.1.2"
   }
 }
